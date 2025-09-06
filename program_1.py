@@ -2,8 +2,7 @@
 # Date Sept 5, 2025
 
 def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
+    # Print Hello World
     print('Hello World')
 
 hello_world()
