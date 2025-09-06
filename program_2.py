@@ -1,5 +1,7 @@
 # Programmer: Jonathan Sonnek
 # Date Sept 5, 2025
+# Title: Modified Hello Part II
+
 def proverbs_22_29():
     # Printing Proverbs 22:29
     print("“Do you see a man skillful in his work?")
