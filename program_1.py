@@ -1,6 +1,9 @@
+# Programmer: Jonathan Sonnek
+# Date Sept 5, 2025
+# Title: Modified Hello Part I
+
 def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
-    print('Hello ...')
+    # Print Hello World
+    print('Hello World')
 
 hello_world()
